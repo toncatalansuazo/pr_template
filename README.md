@@ -1,2 +1,2 @@
 # pr_template
-just testing template in github
+just testing template in github.
